@@ -1,0 +1,3 @@
+Pillow==2.3.0
+PyAutoGUI==0.9.35
+pytesseract==0.1.6
