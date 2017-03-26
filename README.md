@@ -1,5 +1,7 @@
 # 10FastFingers - Python script
 
+Python version - 3.x
+
 Python script to get 175+ WPM in https://10fastfingers.com/typing-test/english site.
 
 ### Modules:
