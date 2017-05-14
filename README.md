@@ -6,7 +6,7 @@ Python 3.x script to get 175+ WPM in https://10fastfingers.com/typing-test/engli
 
 ### Modules:
 
-1. pyautogui - Used to type in text box and move cursor to select the text area. It might vary from screen size so you might need to adjust it.
+1. [pyautogui](https://pyautogui.readthedocs.io/en/latest/) - Used to type in text box and move cursor to select the text area. It might vary from screen size so you might need to adjust it.
 
 2. pytesseract - Used to extract text data from given image.
 
