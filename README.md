@@ -1,6 +1,6 @@
 # 10FastFingers - Python script
 
-Live Demo: https://www.youtube.com/watch?v=b0SapLMcgVw
+Live Demo(youtube video): https://www.youtube.com/watch?v=b0SapLMcgVw
 
 Python 3.x script to get 175+ WPM in https://10fastfingers.com/typing-test/english site.
 
